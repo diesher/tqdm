@@ -1,0 +1,40 @@
+{
+    "regressions": [
+        [
+            "benchmarks.FractionalOverheadSuite.track_tqdm", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i5-4310M CPU @ 2.70GHz/machine-dv6-buntu/os-Linux 4.10.0-36-generic/python-2.7/ram-8054596/benchmarks.FractionalOverheadSuite.track_tqdm.json", 
+            {}, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        635, 
+                        4.677066902405344, 
+                        5.563986738971931
+                    ]
+                ], 
+                5.563986738971931, 
+                4.677066902405344
+            ]
+        ], 
+        [
+            "benchmarks.FractionalOverheadSuite.track_optimsed", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i5-4310M CPU @ 2.70GHz/machine-dv6-buntu/os-Linux 4.10.0-36-generic/python-2.7/ram-8054596/benchmarks.FractionalOverheadSuite.track_optimsed.json", 
+            {}, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        635, 
+                        4.159802052288308, 
+                        4.457362629701498
+                    ]
+                ], 
+                4.457362629701498, 
+                4.159802052288308
+            ]
+        ]
+    ]
+}
